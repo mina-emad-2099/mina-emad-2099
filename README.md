@@ -1,4 +1,4 @@
-# Hi there, I'm Mina! 👋
+# Hi there, I'm Mina! 
 
 **Computer & Systems Engineering Student @ Ain Shams University** 🎓
 
@@ -16,15 +16,15 @@ I'm a software and hardware engineering enthusiast based in Cairo, Egypt. I enjo
 
 #### 🎮 Gaming & UI 
 *   **[tho3ban](link-here):** A classic Snake game implementation built with C++ and Qt, featuring custom bare-bones, minimalist 2D graphical interfaces.
-*   **[quoridor-game](link-here) / [Quoridor](link-here):** Implementations of the strategic board game Quoridor.
-*   **[MemomryProject](link-here):** A C++ graphical application built with CMake.
+*   **[Quoridor](link-here):** Implementations of the strategic board game Quoridor.
+*   **[MemomryProject](link-here):** A C++ graphical application built with CMake for showing how memory is allocated according to best-fit and first-fit.
 
 #### 🏥 Systems & Applications
 *   **[Clinic_System_java](link-here):** A comprehensive dental clinic management system built with Java and JavaFX. Includes fully integrated modules for patient billing, prescription writing, and appointment scheduling.
-*   **[LibrarySystem](link-here):** A software solution for managing library resources and operations.
+*   **[LibrarySystem](link-here):** A C# to manage a custom library system that uses ADO.NET for SQL queries.
 
 #### ⚙️ Low-Level & Networking
-*   **[cpu-scheduler-project](link-here):** Implementation of CPU scheduling algorithms.
+*   **[cpu-scheduler-project](link-here):** Implementation of CPU scheduling algorithms with Dear IMGUI.
 *   **[go-back-n](link-here):** Simulation/implementation of the Go-Back-N sliding window network protocol.
 
 #### 🤖 Bots & Scripts
@@ -35,12 +35,12 @@ I'm a software and hardware engineering enthusiast based in Cairo, Egypt. I enjo
 
 ### 🛠️ Tech Stack & Tools
 
-*   **Languages:** C++, Java, Verilog, Assembly (MIPS)
-*   **Frameworks & Libraries:** Qt, JavaFX
+*   **Languages:** C++, Java, Verilog, C#
+*   **Frameworks & Libraries:** Qt, JavaFX, Dear ImGui
 *   **Tools:** CMake, Git, Discord API
 
 ---
 
 ### 📫 Let's Connect!
-*   **LinkedIn:** [Your LinkedIn URL]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:** https://www.linkedin.com/in/mina-emad-052819318/
+*   **Email:** mina.emad.2099@gmail.com
